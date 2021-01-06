@@ -22,5 +22,18 @@ To categorize or group cryptocurrencies available in the trading market that wil
 
 ## Summary
 
+- Elbow Curve (Finding the best value for k=4)
+
+![elbow_curve](resources/elbow_curve.png)
+
+- 3d_Scatter with clusters
+
+![3d_cluster](resources/3d_cluster.png)
+
 - Data processed shows a number of cryptocurrencies that are available for trading.
+
+![tradeable_table](resources/tradeable_curr.png)
+
 - Visualizing the data with a plot that shows the TotalCoinsMined vs TotalCoinSupply (and grouped data)
+
+![Results](resources/viz_results.png)
